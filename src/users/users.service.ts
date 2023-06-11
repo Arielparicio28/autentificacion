@@ -17,13 +17,13 @@ export class UsersService {
       password: 'guess'
     },
    {
-    userId : 3
-    username: "Huilen"
-    password: ""
-   }
-    { userId : ,
-      username:"Ariel",
-      password:"me"
+    userId : 3,
+      username:'Huilen',
+      password:'you'
+   },
+    { userId : 4,
+      username:'Ariel',
+      password: 'me'
     },
     
     
