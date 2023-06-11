@@ -17,15 +17,21 @@ export class UsersService {
       password: 'guess'
     },
    {
-    userId : 3
-    username: "Huilen"
-    password: ""
-   }
-    { userId : ,
+    userId : 3 ,
+    username: "Huilen",
+    password: "bella"
+   },
+
+    { userId : 4,
       username:"Ariel",
       password:"me"
     },
     
+    {
+      userId : 5,
+      username:"Eva",
+      password: "linda"
+    }
     
   ];
 
